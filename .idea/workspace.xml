@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abc661fd-1fb1-42f6-a802-3ebd5f9dbe84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/com/linkage/rakuraku/core/RakurakuCore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkage/rakuraku/core/RakurakuCore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuDBUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuDBUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuFileUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuFileUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuWebUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuWebUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuWebUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkage/rakuraku/util/RakurakuWebUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/linkage/rakuraku/util/RakurakuWebUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/linkage/rakuraku/util/RakurakuWebUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="22Dufw75fusSg4TKweXpwI9M4BU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rakuraku-auto-test" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\changsk\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\pleiades\workspace\rakuraku-core" />
+          <option name="myCopyRoot" value="D:\pleiades\workspace\rakuraku-core" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\pleiades\workspace\rakuraku-core" />
+          <option name="myCopyRoot" value="D:\pleiades\workspace\rakuraku-core" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc661fd-1fb1-42f6-a802-3ebd5f9dbe84" name="Default Changelist" comment="" />
+      <created>1639384587346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639384587346</updated>
+    </task>
+    <servers />
+  </component>
+</project>
